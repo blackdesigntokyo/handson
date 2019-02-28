@@ -18,7 +18,6 @@ $weather_information = [
 
 // Q1. '博多駅' と出力してください。
 
-var_dump($weather_information[6]);
 
 
 
