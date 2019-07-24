@@ -1,3 +1,18 @@
 Let’s start Python #2
-ハンズオンで書いたコード
 https://elv.connpass.com/event/139238/
+
+こちらのハンズオンで書いたコードです。
+（今回のハンズオンでスクレイピングするwebページは、すべて講師の方が用意していただいたものですので、法的に問題なく実習を進めることができました）
+
+・sc_1.py
+あるwebページの、htmlコードを取得するプログラムです。
+URLを変数に入れ、requestsのgetメソッドでurlを取得し、変数responseへ代入。
+そして文字化け防止のためにエンドーディングをかけます。
+
+
+
+
+
+
+
+https://seminar.blackdesign.jp/286
