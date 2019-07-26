@@ -7,7 +7,7 @@ https://elv.connpass.com/event/139238/
 ・sc_1.py
 あるwebページの、htmlコードを取得するプログラムです。
 URLを変数に入れ、requestsのgetメソッドでurlを取得し、変数responseへ代入。
-そして文字化け防止のためにエンドーディングをかけます。
+そして文字化け防止のためにエンコーディングをかけます。
 
 
 
