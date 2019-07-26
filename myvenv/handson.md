@@ -36,7 +36,7 @@ BeautifulSoup4は、htmlの構文解釈のライブラリです。出来るこ�
 このwebページから、リンク（aタグ）のテキストとリンク先を取得して表示してみます。
 http://sandream.main.jp/elv_python/second
 
-# ulタグで囲まれた部分を抽出します
+ulタグで囲まれた部分を抽出します
 ul_tag = bs.find('ul')
 
 
