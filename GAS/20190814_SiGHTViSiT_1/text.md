@@ -10,6 +10,11 @@ https://sight-visit.connpass.com/event/143605/
 
 https://docs.google.com/spreadsheets/d/1w3MgFVugATL2S_yeociPMWGbrbJQBlAVPgk9Y5Q5R8Y/edit#gid=1164252168
 
+## GASの基礎
+ファイル：01.gs
+シート：GAS
+AB列の情報を取得し、プラスした値をC列に記入。偶数奇数判定を行い、D列に記入。
+
 ## 課題1
 ファイル：p1.gs
 シート：Practice1
