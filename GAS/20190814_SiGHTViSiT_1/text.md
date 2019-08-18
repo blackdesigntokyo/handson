@@ -16,12 +16,3 @@ https://docs.google.com/spreadsheets/d/1w3MgFVugATL2S_yeociPMWGbrbJQBlAVPgk9Y5Q5
 ABCD列の情報を取得し、E列に「_」区切りで記入。完了したらF列に「TRUE」を記入します。
 
 
-
-
-
-
-
-## 参考
-### 行と列の英語表記
-Row：行　　　Column：列
-（Row , Column）
