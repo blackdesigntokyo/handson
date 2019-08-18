@@ -11,6 +11,7 @@ https://sight-visit.connpass.com/event/143605/
 https://docs.google.com/spreadsheets/d/1w3MgFVugATL2S_yeociPMWGbrbJQBlAVPgk9Y5Q5R8Y/edit#gid=1164252168
 
 ## 課題1
+ファイル：p1.gs
 シート：Practice1
 ABCD列の情報を取得し、E列に「_」区切りで記入。完了したらF列に「TRUE」を記入します。
 
