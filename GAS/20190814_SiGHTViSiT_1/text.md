@@ -15,4 +15,8 @@ https://docs.google.com/spreadsheets/d/1w3MgFVugATL2S_yeociPMWGbrbJQBlAVPgk9Y5Q5
 シート：Practice1
 ABCD列の情報を取得し、E列に「_」区切りで記入。完了したらF列に「TRUE」を記入します。
 
+## 課題2
+ファイル：p2.gs
+シート：Practice2
+F列に「TRUE」がある行はそのまま。無い場合のみ、課題1と同じ処理をE列に入力。
 
