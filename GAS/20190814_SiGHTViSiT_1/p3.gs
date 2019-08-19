@@ -17,13 +17,6 @@ function myFunctionP3() {
       
       PRACTICE_SHEET.getRange(i,6).setValue("TRUE");
       
-      Logger.log(address);
-      Logger.log(typeof "address");
-      Logger.log(subject);
-      Logger.log(typeof "subject");
-      Logger.log(total);
-      Logger.log(typeof "total");
-      Logger.log("------");
       
     }
   }
